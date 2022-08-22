@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(to right, #fafa6e, #cdef72, #a4e27a, #7dd382, #58c389, #35b28e, #0ea18f, #008f8c, #007d85, #146b79, #23596a, #2a4858);
+  
+}
+
+h1 {
+ font-family: 'Permanent Marker';
+ font-size:  80px;
+}
+
+img {
+  margin: 100px 10px 10px 10px;
+  width: 400px;
+}
+
+button {
+  text-align: center;
+  font-size: 20px;
+  border-radius: 5px;
+  transition: 0.2s;
+  padding: 5px;
+}
+
+button :hover{
+  background-color: #58c389;
+}
+
+button:active{
+  transform: translateY(4px);
+}
+
+#input {
+  padding: 5px;
+  font-size: 20px;
+  border-radius: 12px;
+
+}
+
+
+
+
+
